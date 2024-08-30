@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Rayanne69
+- 👋 Hi, I’m @Panda1
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning BTS SIO
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me r.zouache@outlock.com
 
